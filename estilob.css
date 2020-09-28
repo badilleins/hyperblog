@@ -4,5 +4,12 @@ body{
     font family:arial;
 }
 #cabecera{
-	background:red;
-}
+	color:red;
+	background:black;
+	margin:auto 20em;
+	text-align: center;
+	height:3em;
+	width: 4em;
+	padding:1em;
+	font-size:2em;
+	}
