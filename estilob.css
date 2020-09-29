@@ -1,9 +1,15 @@
 body{
     color:grey;
     text-align:center;
-    font-family:cursive;
-    text-align:center;
-    margin:5% 40%;
-    border:1em solid blue;
+    font family:arial;
 }
-
+#cabecera{
+	color:red;
+	background:black;
+	margin:auto 20em;
+	text-align: center;
+	height:3em;
+	width: 4em;
+	padding:1em;
+	font-size:2em;
+	}
