@@ -1,15 +1,23 @@
 body{
     color:grey;
     text-align:center;
-    font family:arial;
+	font family:arial;
+	
 }
 #cabecera{
 	color:red;
 	background:black;
-	margin:auto 20em;
+	margin:auto auto;
 	text-align: center;
 	height:3em;
 	width: 4em;
 	padding:1em;
 	font-size:2em;
 	}
+.contenido{
+	border:5px solid #222;
+	background-color:#444;
+	color:#fff;
+	margin:0 20em;
+	padding:5px;
+}
