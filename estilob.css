@@ -12,8 +12,13 @@ body{
 	height:3em;
 	width: 4em;
 	padding:1em;
-	font-size:2em;
-	}
+	font-size:2em;	}
+
+#logo{
+	float:right;
+	width:2em;
+	height:2em ;
+}
 .contenido{
 	border:5px solid #222;
 	background-color:#444;
