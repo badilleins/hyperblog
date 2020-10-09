@@ -1,4 +1,4 @@
-# Bulldog blog   :fa-paw:
+# Bulldog blog   🐶
 ## ¿Cuál es el propósito de este blog?
 Que las personas tengan o no un bulldog vean algunas curiosidades acerca de los perritos raza bulldog que probablemente no conocían.
 ### Les dejo a mi gordo :)
