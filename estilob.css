@@ -1,12 +1,12 @@
 body{
-    color:grey;
+    background: #222;
     text-align:center;
 	font family:arial;
 	
 }
 #cabecera{
-	color:red;
-	background:black;
+	color:#f42;
+	background:#ddd;
 	margin:auto auto;
 	text-align: center;
 	height:3em;
