@@ -7,5 +7,6 @@ Que las personas tengan o no un bulldog vean algunas curiosidades acerca de los 
 >Vean el blog de mi dueño para que se informen un poco más de nosotros ,wof wof.
 >-un bulldog
 >Cuiden mucho a sus perritos.
-
+>los tq mucho
+<sonrian perros >
 ~~saludos de un programador hacia otro.~~
