@@ -9,4 +9,7 @@ Que las personas tengan o no un bulldog vean algunas curiosidades acerca de los 
 
 >Cuiden mucho a sus perritos.
 
+>los tq mucho
+
+>sonrian perros 
 ~~saludos de un programador hacia otro.~~
